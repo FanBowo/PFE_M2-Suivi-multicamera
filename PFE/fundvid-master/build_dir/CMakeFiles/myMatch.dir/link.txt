@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -O3 -mssse3 -fpermissive -pthread  -shared -Wl,-soname,libmyMatch.so -o libmyMatch.so CMakeFiles/myMatch.dir/src/matchers/sift_opencv_matcher.cpp.o CMakeFiles/myMatch.dir/src/matchers/sift_guided_matching.cpp.o  -L/home/fanzhuzhi/Desktop/PFE/fundvid-master/build_dir  -L/usr/lib/levmar-2.6 

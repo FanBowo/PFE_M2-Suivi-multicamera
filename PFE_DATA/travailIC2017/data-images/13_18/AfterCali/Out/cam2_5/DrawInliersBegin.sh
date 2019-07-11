@@ -1,0 +1,1 @@
+./DessinerInliers ../../cam2/image2.tiff ../../cam5/image2.tiff ./Debug_2_5/0_InitInliers.xml

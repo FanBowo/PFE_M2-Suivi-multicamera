@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Fundamental type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    7.1949981814400601e-07 1.3323223163686186e-06
+    -6.6581344689255911e-04 -2.5184197791149256e-08
+    1.9703119268518084e-06 -5.7531553385084750e-04
+    -1.1599679038046741e-03 -1.9005916397517135e-03 1.</data></Fundamental>
+</opencv_storage>

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -O3 -mssse3 -fpermissive -pthread  -shared -Wl,-soname,libmyIO.so -o libmyIO.so CMakeFiles/myIO.dir/src/reader/imagesreader.cpp.o CMakeFiles/myIO.dir/src/reader/boostreader.cpp.o  -L/home/fanzhuzhi/Desktop/PFE/fundvid-master/build_dir  -L/usr/lib/levmar-2.6 
